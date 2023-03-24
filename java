@@ -1,0 +1,2 @@
+.{ : braces
+	  ANY →  {$expr$$END$}
